@@ -11,11 +11,11 @@ Funcionalidad: Muestra un RecyclerView con categorías de "categoria1" a "catego
 Desafíos y Soluciones: Gestión eficiente de datos dinámicos y diseño uniforme de categorías.
 
 ## Fragment 3: Texto Estático con Estilo
-Funcionalidad: Muestra un texto estático "Fragment 3" con un estilo específico.
+Funcionalidad: Muestra un texto estático "Fragment 3" con un color de fondo específico.
 
-Desafíos y Soluciones: Aplicación de un estilo personalizado y garantía de coherencia visual.
+Desafíos y Soluciones: Aplicación de un estilo personalizado.
 
 ## Fragment 4: Texto Estático con Estilo
-Funcionalidad: Muestra un texto estático "Fragment 4" con un estilo específico.
+Funcionalidad: Muestra un texto estático "Fragment 4" con un color de fondo específico.
 
-Desafíos y Soluciones: Aplicación de un estilo personalizado y consistencia visual con el diseño general.
+Desafíos y Soluciones: Aplicación de un estilo personalizado.
